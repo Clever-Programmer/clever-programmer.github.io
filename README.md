@@ -1,5 +1,3 @@
-<!-- # clever-programmer.github.io -->
-
-# Safdar's Portfolio
+# clever-programmer.github.io
 
 Programmer Introduction
