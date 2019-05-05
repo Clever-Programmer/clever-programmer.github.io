@@ -175,8 +175,10 @@ header.masthead {
 }
 
 header.masthead h1 {
-  font-size: 3rem;
-  line-height: 3rem;
+  /*font-size: 3rem;
+  line-height: 3rem;*/
+  font-size: 2rem;
+  line-height: 2rem;
 }
 
 header.masthead h2 {
