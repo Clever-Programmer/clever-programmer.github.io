@@ -1,3 +1,1 @@
-# clever-programmer.github.io
-
-Programmer Introduction
+# Programmer Introduction
